@@ -2,7 +2,7 @@ package main
 
 import "testing"
 
-func TestHello(t *testing.T) {
+func TestHellojsjgksdjhkdshjkds(t *testing.T) {
 	got := Hello("Pedro")
 	want := "Hello, Pedro"
 
